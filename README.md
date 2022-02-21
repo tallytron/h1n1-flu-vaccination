@@ -52,6 +52,13 @@ To study feature importance, I used SHAP value which showed the top 4 features t
 
 ![image](https://user-images.githubusercontent.com/80222038/154827242-fdb4af8a-d770-4d87-bf8f-8cc36dcfd622.png)
 
+## Cost Summary
+
+Please note that this cost is just an estimate and based off from research from different medical sites. This cost does not represent the actual market value nor the full cost, this is just to provide an idea to the audience on how much the cost will be if the US government decides to invest in the model. This is purely just for personal learning purposes.
+
+![image](https://user-images.githubusercontent.com/80222038/155000051-2917cfc6-12e0-4217-ae88-2562f707a57a.png)
+
+
 ## Recommendations
 
 ![image](https://user-images.githubusercontent.com/80222038/154827287-2d51f20a-78d1-42a4-89b8-414678c03189.png)
